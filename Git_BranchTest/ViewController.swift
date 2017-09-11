@@ -14,6 +14,7 @@ class ViewController: UIViewController {
         super.viewDidLoad()
         // Do any additional setup after loading the view, typically from a nib.
         print("Git Test")
+        asdfdsa
     }
 
     override func didReceiveMemoryWarning() {
@@ -23,4 +24,3 @@ class ViewController: UIViewController {
 
 
 }
-
